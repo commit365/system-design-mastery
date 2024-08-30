@@ -153,3 +153,7 @@ To get started with this course, you can clone this repository to your local mac
 git clone https://github.com/commit365/system-design-mastery.git
 cd system-design-mastery
 ```
+
+## License
+
+This course is licensed under the MIT License. See the LICENSE file for more details.
